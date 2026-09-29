@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rgscoaching.github.io/sitemap.xml
+Sitemap: https://realgymshady.de/sitemap.xml
