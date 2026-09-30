@@ -22,7 +22,6 @@
     "Über mich": "About me",
     "Album": "Album",
     "FAQ": "FAQ",
-    "Jetzt bewerben": "Apply now",
     "Online Powerlifting Coaching": "Online Powerlifting Coaching",
     "Mehr erfahren": "Learn more",
     "Sportwissenschaften": "Sport Science",
@@ -36,7 +35,6 @@
     "Ernährungsberatung": "Nutrition guidance",
     "Sportpsychologische Betreuung": "Sport psychology support",
     "So startest du": "How to get started",
-    "Bewerben": "Apply",
     "Kennenlernen": "Getting to know each other",
     "Planung": "Planning",
     "Training & Feedback": "Training & feedback",
@@ -136,9 +134,6 @@
     "Du erreichst mich direkt per WhatsApp, bei Fragen zu Training und Vorbereitung.": "You can reach me directly via WhatsApp for questions about training and preparation.",
     "Du schickst mir Videos, ich analysiere sie wöchentlich und gebe dir konkrete Cues zur Verbesserung.": "You send me videos, I analyze them weekly and give you concrete cues for improvement.",
     "Grundlegende Ernährungsberatung, passend zu Training und Gewichtsklasse.": "Basic nutrition guidance, matched to your training and weight class.",
-    "Von der Bewerbung bis zum ersten Trainingsblock.": "From application to your first training block.",
-    "Du füllst ein kurzes Formular aus und erzählst mir von deinen Zielen.": "You fill in a short form and tell me about your goals.",
-    "Wir sprechen über deine Ausgangslage und deine Ziele und schauen, ob wir zusammenpassen.": "We talk about your starting point and your goals and see whether we're a good fit.",
     "Du bekommst deinen individuellen Plan für den ersten Block.": "You get your individual plan for the first block.",
     "Du trainierst und schickst Videos, ich analysiere und wir justieren nach.": "You train and send videos, I analyze them and we fine-tune.",
     "Sport begleitet mich seit meiner Kindheit. Um mich in den Teenagerjahren im Basketball auf das nächste Level zu bringen, habe ich den Kraftsport für mich entdeckt. Zunächst standen Athletik und performance-orientiertes Training im Vordergrund, nach ein paar Jahren bin ich beim Kraftdreikampf gelandet.": "Sport has been part of my life since childhood. To take my basketball to the next level as a teenager, I discovered strength training. At first the focus was on athleticism and performance-oriented training; after a few years I ended up in powerlifting.",
@@ -154,7 +149,6 @@
     "Kein Problem. Wir bauen die Technik in Kniebeuge, Bankdrücken und Kreuzheben gemeinsam auf und steigern die Belastung Schritt für Schritt.": "No problem. We build your technique in the squat, bench press and deadlift together and increase the load step by step.",
     "Ich analysiere deine Videos wöchentlich und gebe dir konkrete Technik-Cues.": "I analyze your videos every week and give you concrete technique cues.",
     "Nein, es gibt keine Mindestvertragslaufzeit. Ich möchte, dass du bleibst, weil es dir etwas bringt.": "No, there is no minimum contract term. I want you to stay because it's worth it to you.",
-    "Erzähl mir in wenigen Minuten, wo du stehst und wo du hinwillst.": "Tell me in a few minutes where you are and where you want to go.",
     "Wettkämpfe, Backstage, Podien mit meinen Athlet:innen. Alle Fotos werden mit Einverständnis der Abgebildeten gezeigt.": "Meets, backstage, podiums with my athletes. All photos are shown with the consent of the people pictured.",
     "„Ich habe vor allem gelernt, dass Powerlifting nicht nur heißt, jede Woche mehr Gewicht zu bewegen, sondern dass Fortschritt ein Prozess ist, der aus Nachhaltigkeit und langfristiger Perspektive entsteht.“": "“Above all I learned that powerlifting isn't just about moving more weight every week, but that progress is a process built on sustainability and a long-term perspective.”",
     "„Auch die nächsten drei Wettkämpfe habe ich mit Leon zusammen gemacht, und wir konnten gemeinsam mein Total um weitere 75 kg […] steigern.“": "“I also did the next three meets with Leon, and together we raised my total by another 75 kg […].”",
@@ -162,7 +156,12 @@
     "Ich coache auf Augenhöhe, als Miteinander und nicht nach dem Motto „Ich sage dir, wo es langgeht“. Mir ist wichtig, dass du dich selbstwirksam erlebst. Deshalb fördere ich deine Autonomie und deine Kompetenz, damit du verstehst, was du tust und warum.": "I coach as equals, as a partnership and not along the lines of “I'll tell you where to go”. It matters to me that you experience yourself as effective. That's why I support your autonomy and competence, so you understand what you're doing and why.",
     "Ich wohne in Köln und trainiere im Vereinsgym von Kraftsport Colonia, meist zusammen mit guten Freunden. Das Coaching läuft online, aber wenn es sich ergibt, bin ich auch für gemeinsame Trainingseinheiten vor Ort offen. Wenn ich nicht gerade unter der Stange stehe, findest du mich mit einem guten Kaffee in der Hand, bei einer Pizza oder bei irgendeiner Sportart, für die ich mich gerade begeistere.": "I live in Cologne and train at the club gym of Kraftsport Colonia, mostly with good friends. The coaching is online, but if it works out, I'm also open to in-person training sessions. When I'm not under the bar, you'll find me with a good coffee in hand, over a pizza, or into whatever sport I'm currently excited about.",
     "Erstgespräch buchen": "Book an intro call",
-    "Kostenloses Erstgespräch buchen": "Book a free intro call"
+    "Kostenloses Erstgespräch buchen": "Book a free intro call",
+    "Termin buchen": "Book a slot",
+    "Du wählst einen Termin für ein kostenloses Erstgespräch und beantwortest ein paar Fragen zu dir.": "You pick a slot for a free intro call and answer a few questions about yourself.",
+    "Im Gespräch klären wir deine Ausgangslage, deine Ziele und ob wir zusammenpassen.": "In the call we clarify your starting point, your goals and whether we're a good fit.",
+    "Vom ersten Gespräch bis zum ersten Trainingsblock.": "From the first call to your first training block.",
+    "Such dir einen Termin aus und erzähl mir, wo du stehst und wo du hinwillst.": "Pick a slot and tell me where you are and where you want to go."
   };
 
   function norm(s) { return s.replace(/\s+/g, ' ').trim(); }
